@@ -1,0 +1,9 @@
+RenderAOMulti cdata/contraction0.obj cdata/contraction1.obj cdata/contraction2.obj cdata/contraction3.obj cdata/contraction4.obj cdata/contraction5.obj cdata/contraction6.obj cdata/contraction7.obj
+renderDelay 10
+li.al.intensity 0.76
+li.dl.intenisty 1.57
+li.sl.intensity 1.42
+li.sl.power 4.43
+width 0.003189
+loadCamera camera/contraction
+

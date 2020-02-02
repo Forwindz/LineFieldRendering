@@ -1,0 +1,9 @@
+load flowdata/heli_flight.obj
+renderDelay 5
+li.dl.direct 0 1 1
+loadCamera camera/heli_flight
+width 0.003962
+li.al.intensity 0.929
+li.dl.intensity 1.30
+li.sl.intensity 0.39
+li.sl.power 4.70

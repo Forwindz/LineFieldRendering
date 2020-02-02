@@ -1,0 +1,9 @@
+load flowdata/aneurysm.obj
+renderDelay 5
+li.dl.direct 0.0.5 1
+loadCamera camera/aneurysm
+width 0.003786
+li.al.intensity 0.865248
+li.dl.intensity 1.3049
+li.sl.intensity 1.276596
+li.sl.power 4.5035

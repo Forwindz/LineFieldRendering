@@ -1,0 +1,8 @@
+ui.regButton Show_Aneurysm loadCmdFile cmds/aneurysm.txt
+ui.regButton Show_Heli loadCmdFile cmds/heli_flight.txt
+ui.regButton Show_Heli_Transparent_Curvature loadCmdFile cmds/heli_flight_cuv.txt
+ui.regButton Show_Heli_Transparent_Similairty loadCmdFile cmds/heli_flight_sim.txt
+ui.regButton Show_Heli_Transparent_DoG loadCmdFile cmds/heli_flight_DoG.txt
+
+loadCmdFile cmds/aneurysm.txt
+

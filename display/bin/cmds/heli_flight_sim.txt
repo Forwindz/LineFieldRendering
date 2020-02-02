@@ -1,0 +1,15 @@
+load flowdata/heli_flight_sim.obj
+RenderOIT
+li.dl.direct 0 1 0
+loadCamera camera/heli_flight
+width 0.003962
+li.al.intensity 0.6
+li.dl.intensity 0.4
+li.sl.intensity 1.0
+li.sl.power 4.70
+ip.q 425
+ip.r 526
+ip.l 1.4
+fp.times 2
+
+
